@@ -13,10 +13,9 @@
 - **🌐 Web Technologies:** HTML, CSS, XML, Bootstrap 
 - **💼 Other:** REST API, UI/UX Design, JDBC, Servlet, JSP, Full-Stack Development, Android Application, Game Application, Augmented Reality Development.
 
-  <div align="center">
+<div align="center">
   
 ## 🤝 Connect with Me
-
 - LinkedIn: https://www.linkedin.com/in/abhishek-pawshekar-b99b7318b
 
 Feel free to explore my projects and contributions below! 😊
