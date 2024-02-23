@@ -4,7 +4,7 @@ I'm a passionate and innovative Android Developer with a strong foundation in mo
 
 ## 🔧 Skills
 
-- **Languages:** Java, C#, JavaScript, Dart, SQL, Python
+- **Languages:** Java, C#, JavaScript, Dart, SQL, Python, C++
 - **Frameworks:** Flutter, React JS, React Native, Express JS
 - **Database:** Firebase Cloud, MongoDB
 - **Tools:** Unity3D, Vuforia, ARCORE, Heroku 
