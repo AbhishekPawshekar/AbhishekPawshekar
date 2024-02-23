@@ -13,6 +13,9 @@
 - **🌐 Web Technologies:** HTML, CSS, XML, Bootstrap 
 - **💼 Other:** REST API, UI/UX Design, JDBC, Servlet, JSP, Full-Stack Development, Android Application, Game Application, Augmented Reality Development.
 
+  ![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){:height="50px" width="50px"}
+
+
 <div align="center">
   
 ## 🤝 Connect with Me
