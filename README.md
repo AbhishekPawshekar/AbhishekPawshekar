@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Pawshekar 👋
 
-I'm a passionate and innovative Android Developer with a strong foundation in mobile game and app development. Experienced in leading projects, implementing Augmented Reality solutions, and proficient in Flutter app development. I excel in UI/UX design, Java backend development, and integrating Firebase Cloud Database.
+I'm an enthusiastic Android Developer skilled in mobile game and app development, experienced in project leadership, Augmented Reality implementation, and proficient in Flutter. My strengths include UI/UX design, Java backend development, and Firebase Cloud Database integration.
 
 ## 🔧 Skills
 
