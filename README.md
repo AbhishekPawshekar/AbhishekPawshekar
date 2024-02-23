@@ -8,7 +8,7 @@ I'm a passionate and innovative Android Developer with a strong foundation in mo
 - **Frameworks:** Flutter, React JS, React Native, Express JS
 - **Database:** Firebase Cloud, MongoDB
 - **Tools:** Unity3D, Vuforia, ARCORE, Heroku 
-- **Web Technologies:** HTML, CSS, XML,Bootstrap 
+- **Web Technologies:** HTML, CSS, XML, Bootstrap 
 - **Other:** REST API, UI/UX Design, JDBC, Servlet, JSP, Full-Stack Development, Android Application, Game Application, Augmented Reality Development.
 ## 🤝 Connect with Me
 
