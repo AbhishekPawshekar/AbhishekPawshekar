@@ -16,7 +16,7 @@
 <div align="center">
   
 ## 🤝 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/abhishek-pawshekar-b99b7318b
+- LinkedIn: https://www.linkedin.com/in/abhishek-pawshekar
 
 Feel free to explore my projects and contributions below! 😊
 
