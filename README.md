@@ -8,7 +8,7 @@
 
 - **👨‍💻 Languages:** Java, C#, JavaScript, Dart, SQL, Python, C++
 - **🚀 Frameworks:** Flutter, React JS, React Native, Express JS
-- **🛢️ Database:** Firebase Cloud, MongoDB
+- **🛢️ Database:** Firebase Cloud, MongoDB, SQL, MYSQL
 - **🛠️ Tools:** Unity3D, Vuforia, ARCORE, Heroku 
 - **🌐 Web Technologies:** HTML, CSS, XML, Bootstrap 
 - **💼 Other:** REST API, UI/UX Design, JDBC, Servlet, JSP, Full-Stack Development, Android Application, Game Application, Augmented Reality Development.
