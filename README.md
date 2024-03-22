@@ -7,7 +7,7 @@
 ## 🔧 Skills
 
 - **👨‍💻 Languages:** Java, C#, JavaScript, Dart, SQL, Python, C++
-- **🚀 Frameworks:** Flutter, React JS, React Native, Express JS
+- **🚀 Frameworks:** Flutter, React JS, React Native, Express JS, Hibernate
 - **🛢️ Database:** Firebase Cloud, MongoDB, SQL, MYSQL
 - **🛠️ Tools:** Unity3D, Vuforia, ARCORE, Heroku 
 - **🌐 Web Technologies:** HTML, CSS, XML, Bootstrap 
